@@ -1,0 +1,17 @@
+{
+    "all": true,
+    "check-coverage": false,
+    "lines": 5,
+    "functions": 5,
+    "branches": 5,
+    "statements": 5,
+    "reporter": [
+        "cobertura",
+        "html",
+        "lcov",
+        "text"
+    ],
+    "include": [
+        "*.js"
+    ]
+}
